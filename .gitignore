@@ -57,4 +57,4 @@ Thumbs.db
 .env.production.local
 
 # Commands
-FastAPI.md
+.commands
